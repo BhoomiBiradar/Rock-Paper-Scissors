@@ -1,33 +1,78 @@
-# Rock Paper Scissors
+# Rock Paper Scissors Game
 
-A simple Rock Paper Scissors game implemented using HTML, CSS, and JavaScript.
+A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**. Designed with a clean UI and dynamic score tracking, this game recreates the classic hand game with a colorful twist.
 
-## Demo
-You can play the game live .
-Simply double-click on the index.html file, and it should open in your default web browser.
-Start playing!
+---
+
+## Preview
+
+> Here's how the interface looks:
+
+![Preview Screenshot](./assets/preview.png)
+
+> _Modern visuals, click-based gameplay, and live score updates._
+
+---
+
+## Tech Stack
+
+- **HTML5** – Game structure and layout
+- **CSS3** – Styling, transitions, and responsive UI
+- **JavaScript** – Game mechanics, random computer moves, and score tracking
+
+---
+
+## How to Run
+
+1. **Clone the repository**:
+
+```bash
+git clone https://github.com/bhoomibiradar/rock-paper-scissors.git
+```
+
+2. **Navigate to project folder**:
+
+```bash
+cd rock-paper-scissors
+```
+
+3. **Run with Live Server** *(recommended)*:
+   - Open with VS Code
+   - Right-click `index.html` → **Open with Live Server**
+
+4. **OR** double-click `index.html` to launch in your browser.
+
+---
+
+## How to Play
+
+1. Click on one of the three choices: **Rock**, **Paper**, or **Scissors**.
+2. The computer will randomly select its move.
+3. The result is displayed based on classic rules:
+   - 🪨 Rock beats ✂️ Scissors
+   - ✂️ Scissors beats 📄 Paper
+   - 📄 Paper beats 🪨 Rock
+4. Scores are updated after each round.
+5. Play as many rounds as you like — best of luck!
+
+---
 
 ## Features
-- Classic Rock Paper Scissors experience.
-- Colorful and interactive user interface.
-- Keeps track of the score.
 
+- Colorful and animated UI
+- Computer randomly selects moves
+- Live score tracking for both player and computer
+- Quick and intuitive interactions
 
-## Game Instructions
-- Click on one of the images (Rock, Paper, or Scissors) to make your choice.
-- The computer will randomly choose its move.
-- The winner will be determined based on the classic rules of Rock Paper Scissors:
-  - Rock beats Scissors
-  - Scissors beats Paper
-  - Paper beats Rock
-- The score will be updated accordingly.
-- Have fun playing!
+---
 
-## Files Included
-- `index.html`: HTML file containing the structure of the game.
-- `style.css`: CSS file for styling the game interface.
-- `app.js`: JavaScript file containing the game logic.
+## Author
 
-## Contributing
-Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please feel free to open an issue or create a pull request. Let's make this Simon game even better together.
+Made with ❤️ by [Bhoomi](https://github.com/bhoomibiradar)  
+[Portfolio Website](https://your-portfolio-link.com)
 
+---
+
+## License
+
+This project is open source and available for personal or educational use.
